@@ -37,3 +37,44 @@ A simple sweepstakes management web app deployed on Render.
   <p>Enter for a chance to win exciting prizes!</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login - Sweepstakes</title>
+</head>
+<body>
+  <h1>User Login</h1>
+  <form>
+    <input type="email" placeholder="Email" required><br>
+    <input type="password" placeholder="Password" required><br>
+    <button type="submit">Login</button>
+  </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Dashboard</title>
+</head>
+<body>
+  <h1>Admin Panel</h1>
+  <p>Manage sweepstakes entries and pick winners.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Winners</title>
+</head>
+<body>
+  <h1>Past Winners</h1>
+  <ul>
+    <li>Winner 1</li>
+    <li>Winner 2</li>
+    <li>Winner 3</li>
+  </ul>
+</body>
+</html>
